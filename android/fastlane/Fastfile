@@ -1,0 +1,20 @@
+platform :android do
+    desc "Deploy with Fastlane"
+    gradle(
+        task: 'assemble',
+        build_type: 'Release'
+    )
+    lane :upload_to_firebase do
+        firebase_app_distribution(
+            app: "1:412823237422:android:ec0e0abee17e848c",
+            testers: "inspireui.build@gmail.com",
+            groups: "inspireui",
+            release_notes: sh("git log -1 --pretty='%s'"),
+            firebase_cli_path: "/usr/local/bin/firebase",
+            apk_path: "../build/app/outputs/flutter-apk/app-release.apk"
+        )
+    end
+    lane :upload_to_store do
+        upload_to_play_store(track: 'alpha',apk:'../build/app/outputs/flutter-apk/app-release.apk')
+    end
+end

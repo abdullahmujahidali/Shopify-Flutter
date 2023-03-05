@@ -1,0 +1,8 @@
+NSCameraUsageDescription = "Ta aplikacja wymaga dostępu do aparatu w celu uzyskania dostępu do funkcji skanera kodów QR lub kodów kreskowych, do której można uzyskać dostęp z paska wyszukiwania";
+NSLocationAlwaysAndWhenInUseUsageDescription = "Uzyskaj swoją aktualną lokalizację dostawy";
+NSLocationAlwaysUsageDescription = "Potrzebuję dostępu do aktualnej lokalizacji";
+NSLocationWhenInUseUsageDescription = "Uzyskaj swoją aktualną lokalizację dostawy";
+NSMicrophoneUsageDescription = "Chcielibyśmy uzyskać dostęp do mikrofonu, aby umożliwić nagrywanie wiadomości głosowych";
+NSPhotoLibraryAddUsageDescription = "Chcielibyśmy uzyskać dostęp do przechowywania obrazów/filmów w Twojej bibliotece zdjęć";
+NSPhotoLibraryUsageDescription = "Ta aplikacja wymaga dostępu do biblioteki zdjęć, aby wybrać zdjęcie profilowe, które będzie używane jako obraz czatu w funkcji czatu";
+NSUserTrackingUsageDescription = "Ten identyfikator będzie używany do dostarczania Ci spersonalizowanych reklam. &quot;Poproś aplikację, aby nie śledziła&quot; ograniczy zdolność sieci reklamowej&apos;do dostarczania Ci trafnych reklam, ale nie zmniejszy liczby otrzymywanych reklam.";

@@ -1,0 +1,248 @@
+name: fstore
+publish_to: "none"
+description: Mobile commerce app by Flutter
+
+# Release version: v3.7.0 (Do not change this line)
+# A version number is three numbers separated by dots, like 1.2.43 - followed by an optional build number separated by a +.
+# In Android, build-name is used as versionName while build-number used as versionCode.Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion. Read more about iOS versioning at https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+version: 1.0.0+3000
+
+environment:
+  sdk: ">=2.17.6 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  inspireui: 1.3.6
+
+  # Base
+  intl: 0.17.0
+  crypto: 3.0.2
+  path_provider: ^2.0.13
+  url_launcher: ^6.1.10
+  flutter_secure_storage: 7.0.1
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  http: 0.13.5
+  http_auth: 1.0.1
+  share: 2.0.4
+  tuple: 2.0.1
+  collection: 1.17.0
+  quiver: 3.2.1
+  async: 2.10.0
+  html: 0.15.1
+  vector_math: 2.1.4
+  path: 1.8.2
+  flutter_svg: 1.1.6
+
+  # FIREBASE PACKAGES
+  firebase_core: ^2.7.0
+  firebase_analytics: ^10.1.4
+  firebase_auth: ^4.2.9
+  firebase_remote_config: ^3.0.13
+  firebase_dynamic_links: ^5.0.15
+  cloud_firestore: ^4.4.3
+
+  # Additional Firebase packages. To prevent unexpected upgrade.
+  firebase_core_platform_interface: ^4.5.3
+  firebase_analytics_platform_interface: ^3.3.21
+  firebase_auth_platform_interface: ^6.11.11
+  firebase_remote_config_platform_interface: ^1.1.33
+  firebase_dynamic_links_platform_interface: ^0.2.3+30
+  cloud_firestore_platform_interface: ^5.11.3
+  firebase_messaging_platform_interface: ^4.2.14
+
+  # PUSH NOTIFICATION
+  firebase_messaging: ^14.2.5
+  notification_permissions: 0.6.1
+  flutter_local_notifications: ^13.0.0
+  # onesignal_flutter: 3.5.0
+
+  # STATE MANAGEMENT
+  provider: 6.0.5
+  get_it: 7.2.0
+
+  # SPLASH SCREEN, ONBOARD
+  lottie: 2.2.0
+  rive: ^0.10.2
+
+  # WEB TOOLS
+  html_unescape: 2.0.0
+  webview_flutter: 3.0.4
+  webview_flutter_web: 0.1.0+4
+  responsive_builder: ^0.6.0
+  flutter_inappwebview: 5.7.2+3
+
+  # HTML render
+  flutter_widget_from_html_core: 0.9.1
+  fwfh_svg: 0.7.2+1
+  fwfh_cached_network_image: ^0.7.0+4
+  fwfh_url_launcher: ^0.9.0+1
+  fwfh_chewie: ^0.7.1+1
+  fwfh_webview: 0.6.2+5
+  fwfh_text_style: 2.22.8+1
+
+  # VIDEO
+  youtube_player_iframe:
+    git:
+      url: https://github.com/inspireui/youtube_player_flutter.git
+      path: packages/youtube_player_iframe
+      ref: 14b2055ab38cb7b66297611908ceee1f4f53386f
+
+  # MAP
+  google_maps_flutter: ^2.2.4
+  geocode: 1.0.2
+  location: 4.4.0
+
+  # AUTHENTICATION
+  the_apple_sign_in: 1.1.1
+  flutter_facebook_auth: 5.0.7
+  google_sign_in: ^6.0.1
+  sms_autofill: ^2.3.0
+
+  # PERMISSION
+  permission_handler: 10.2.0
+
+  # FILES, IMAGES
+  file_picker: 5.2.5
+  cached_network_image: 3.2.3
+  image: ^4.0.12
+  transparent_image: ^2.0.1
+  image_picker: ^0.8.6+1
+  flutter_native_image: 0.0.6+1
+  flutter_cache_manager: 3.3.0
+  wechat_assets_picker: ^8.4.0
+  photo_manager: 2.5.2
+
+  # TOOLS
+  google_fonts: ^4.0.3
+  random_string: 2.3.1
+  json_annotation: 4.8.0
+  timeago: 3.3.0
+  universal_platform: 1.0.0+1
+  uuid: 3.0.7
+  easy_debounce: 2.0.3
+  devicelocale: ^0.6.0
+  visibility_detector: 0.3.3
+  rate_my_app: 1.1.3
+  flutter_linkify: 5.0.2
+  gms_check: 1.0.1
+  new_version_plus: 0.0.3
+  video_player: ^2.5.2
+  google_mobile_ads: 2.3.0
+
+  # UI
+  flutter_spinkit: 5.1.0
+  smooth_page_indicator: ^1.0.1
+  animated_text_kit: 4.2.2
+  flash: ^2.0.5+1
+  flutter_staggered_grid_view: 0.6.2
+  pin_code_fields: 7.4.0
+  country_pickers: 2.0.0
+  dropdown_search: 5.0.5
+  intro_slider: 4.2.0
+  flutter_zoom_drawer: 3.0.3
+  extended_image: ^7.0.2
+  dotted_decoration: 2.0.0
+  awesome_card: 1.1.7
+  qr_code_scanner: 1.0.1
+  flutter_calendar_carousel: 2.4.1
+  sticky_headers: 0.3.0+2
+  jumping_dot: ^0.0.4
+  infinite_carousel: ^1.0.2
+  charts_flutter_new: 0.12.0
+
+
+  ### Native Payment
+  razorpay_flutter: 1.3.4
+  paytm_allinonesdk: 1.2.1
+  flutter_paystack:
+    git:
+      url: https://github.com/inspireui/flutter_paystack
+      ref: ffd342ef628c34076fc66175cea5b2d25e3e8087
+
+  #### For Shopify GraphQL
+  graphql: 5.1.3
+
+  ### Flutter 3 fix warning
+  flutter_swiper_null_safety:
+    git: https://github.com/inspireui/flutter_swiper_null_safety
+  flare_flutter:
+    git:
+      url: https://github.com/inspireui/Flare-Flutter.git
+      ref: fd4bcba22aae4c028286e453deeb78f3311e689a
+      path: flare_flutter
+  pull_to_refresh:
+    git: https://github.com/inspireui/flutter_pulltorefresh
+  intl_phone_number_input:
+    git: https://github.com/inspireui/intl_phone_number_input
+  country_code_picker:
+    git:
+      url: https://github.com/inspireui/CountryCodePicker
+      ref: 0d3978023a94415ab1339de445f15c737adec9b1
+  flutterwave_standard:
+    git:
+      url: https://github.com/inspireui/Flutterwave
+      ref: dd7da29b031fa5a9166b58ffc090eb0a69333b96
+
+
+  ###---- Some extra feature is disable by default -----###
+  ### 💳 Facebook Ads
+  ### Search "Enable Facebook Ads" & uncomment to use  - https://tppr.me/9Pkf9
+  # facebook_audience_network: 1.0.0-nullsafety.0
+
+  ### ⬇️ Enable In App Update on Android feature
+  ### Uncomment file lib/common/tools/in_app_update_for_android.dart
+  #  in_app_update: 4.0.1
+
+
+dev_dependencies:
+  flutter_lints: 2.0.1
+  flutter_native_splash: ^2.2.18
+
+### Enable to use Flutter Test Driver
+#  flutter_driver:
+#    sdk: flutter
+#  test: 1.16.5
+#  dependency_validator: ^3.2.2  # pub run dependency_validator
+
+### Enable Generate Icon library
+#  flutter_launcher_icons: ^0.11.0
+#  Run this script to generate the app icon: flutter pub run flutter_launcher_icons:main
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/images/app_icon.png"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - lib/config/
+    - lib/config/states/
+    - lib/config/stories/
+    - assets/icons/brands/
+    - assets/icons/credit_cards/
+    - assets/icons/tabs/
+    - assets/icons/payment/
+    - assets/icons/logins/
+    - assets/images/
+    - assets/images/country/
+    - assets/images/favicon/
+    - assets/map_styles/
+    - assets/html/
+    - google_fonts/
+
+### Uncomment to use custom font
+#  fonts:
+#    - family: Your Custom Font
+#      fonts:
+#      - asset: google_fonts/GE-Hili-Book.ttf
+
+flutter_intl:
+  enabled: true
+  use_deferred_loading: true

@@ -1,0 +1,8 @@
+NSCameraUsageDescription = "Deze app vereist toegang tot de camera voor de QR-code- of streepjescodescannerfunctie die toegankelijk is via de zoekbalk";
+NSLocationAlwaysAndWhenInUseUsageDescription = "Ontvang uw huidige locatie voor bezorging";
+NSLocationAlwaysUsageDescription = "Huidige locatietoegang nodig";
+NSLocationWhenInUseUsageDescription = "Ontvang uw huidige locatie voor bezorging";
+NSMicrophoneUsageDescription = "We willen graag toegang tot de microfoon om spraakberichten op te kunnen nemen";
+NSPhotoLibraryAddUsageDescription = "We willen graag toegang om afbeeldingen/video's op te slaan in uw fotobibliotheek";
+NSPhotoLibraryUsageDescription = "Deze app heeft toegang tot de fotobibliotheek nodig om een profielfoto te selecteren die zal worden gebruikt als chatafbeelding voor de chatfunctie.";
+NSUserTrackingUsageDescription = "Deze identifier wordt gebruikt om gepersonaliseerde advertenties aan u te leveren. &quot;App vragen om niet te volgen&quot; beperkt het vermogen van advertentienetwerk&apos;om relevante advertenties aan u te leveren, maar vermindert niet het aantal advertenties dat u ontvangt.";

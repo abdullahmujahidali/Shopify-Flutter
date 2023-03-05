@@ -1,0 +1,9 @@
+export 'general_banner_widget.dart';
+export 'general_blog_category_widget.dart';
+export 'general_blog_widget.dart';
+export 'general_button_widget.dart';
+export 'general_category_widget.dart';
+export 'general_post_widget.dart';
+export 'general_product_widget.dart';
+export 'general_title_widget.dart';
+export 'general_web_widget.dart';

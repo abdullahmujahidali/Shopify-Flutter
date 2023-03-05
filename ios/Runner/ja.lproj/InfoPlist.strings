@@ -1,0 +1,8 @@
+NSCameraUsageDescription = "このアプリは、検索バーからアクセスできるQRコードまたはバーコードスキャナー機能のためにカメラへのアクセスを必要とします";
+NSLocationAlwaysAndWhenInUseUsageDescription = "配達のために現在の場所を取得する";
+NSLocationAlwaysUsageDescription = "現在地へのアクセスが必要です";
+NSLocationWhenInUseUsageDescription = "配達のために現在の場所を取得する";
+NSMicrophoneUsageDescription = "音声メッセージを録音できるように、マイクへのアクセスを希望します";
+NSPhotoLibraryAddUsageDescription = "フォトライブラリに画像/動画を保存するためのアクセスをお願いします";
+NSPhotoLibraryUsageDescription = "このアプリは、チャット機能のチャット画像として使用されるプロフィール写真を選択するために、写真ライブラリにアクセスする必要があります。";
+NSUserTrackingUsageDescription = "この識別子は、パーソナライズされた広告をあなたに配信するために使用されます。 &quot;アプリに追跡しないように依頼する&quot; は、関連する広告を配信する広告ネットワーク&apos;の機能を制限しますが、受信する広告の数を減らすことはありません。";

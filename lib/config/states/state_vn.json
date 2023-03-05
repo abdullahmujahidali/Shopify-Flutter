@@ -1,0 +1,322 @@
+[
+  {
+    "code": "44",
+    "name": "An Giang",
+    "subdivision": null
+  },
+  {
+    "code": "43",
+    "name": "Bà Rịa–Vũng Tàu",
+    "subdivision": null
+  },
+  {
+    "code": "57",
+    "name": "Bình Dương",
+    "subdivision": null
+  },
+  {
+    "code": "58",
+    "name": "Bình Phước",
+    "subdivision": null
+  },
+  {
+    "code": "40",
+    "name": "Bình Thuận",
+    "subdivision": null
+  },
+  {
+    "code": "31",
+    "name": "Bình Định",
+    "subdivision": null
+  },
+  {
+    "code": "55",
+    "name": "Bạc Liêu",
+    "subdivision": null
+  },
+  {
+    "code": "54",
+    "name": "Bắc Giang",
+    "subdivision": null
+  },
+  {
+    "code": "53",
+    "name": "Bắc Kạn",
+    "subdivision": null
+  },
+  {
+    "code": "56",
+    "name": "Bắc Ninh",
+    "subdivision": null
+  },
+  {
+    "code": "50",
+    "name": "Bến Tre",
+    "subdivision": null
+  },
+  {
+    "code": "04",
+    "name": "Cao Bằng",
+    "subdivision": null
+  },
+  {
+    "code": "59",
+    "name": "Cà Mau",
+    "subdivision": null
+  },
+  {
+    "code": "CT",
+    "name": "Cần Thơ",
+    "subdivision": null
+  },
+  {
+    "code": "30",
+    "name": "Gia Lai",
+    "subdivision": null
+  },
+  {
+    "code": "03",
+    "name": "Hà Giang",
+    "subdivision": null
+  },
+  {
+    "code": "63",
+    "name": "Hà Nam",
+    "subdivision": null
+  },
+  {
+    "code": "HN",
+    "name": "Hà Nội",
+    "subdivision": null
+  },
+  {
+    "code": "15",
+    "name": "Hà Tây",
+    "subdivision": null
+  },
+  {
+    "code": "23",
+    "name": "Hà Tĩnh",
+    "subdivision": null
+  },
+  {
+    "code": "14",
+    "name": "Hòa Bình",
+    "subdivision": null
+  },
+  {
+    "code": "66",
+    "name": "Hưng Yên",
+    "subdivision": null
+  },
+  {
+    "code": "61",
+    "name": "Hải Dương",
+    "subdivision": null
+  },
+  {
+    "code": "HP",
+    "name": "Hải Phòng",
+    "subdivision": null
+  },
+  {
+    "code": "73",
+    "name": "Hậu Giang",
+    "subdivision": null
+  },
+  {
+    "code": "SG",
+    "name": "Hồ Chí Minh",
+    "subdivision": null
+  },
+  {
+    "code": "34",
+    "name": "Khánh Hòa",
+    "subdivision": null
+  },
+  {
+    "code": "47",
+    "name": "Kiên Giang",
+    "subdivision": null
+  },
+  {
+    "code": "28",
+    "name": "Kon Tum",
+    "subdivision": null
+  },
+  {
+    "code": "01",
+    "name": "Lai Châu",
+    "subdivision": null
+  },
+  {
+    "code": "41",
+    "name": "Long An",
+    "subdivision": null
+  },
+  {
+    "code": "02",
+    "name": "Lào Cai",
+    "subdivision": null
+  },
+  {
+    "code": "35",
+    "name": "Lâm Đồng",
+    "subdivision": null
+  },
+  {
+    "code": "09",
+    "name": "Lạng Sơn",
+    "subdivision": null
+  },
+  {
+    "code": "67",
+    "name": "Nam Định",
+    "subdivision": null
+  },
+  {
+    "code": "22",
+    "name": "Nghệ An",
+    "subdivision": null
+  },
+  {
+    "code": "18",
+    "name": "Ninh Bình",
+    "subdivision": null
+  },
+  {
+    "code": "36",
+    "name": "Ninh Thuận",
+    "subdivision": null
+  },
+  {
+    "code": "68",
+    "name": "Phú Thọ",
+    "subdivision": null
+  },
+  {
+    "code": "32",
+    "name": "Phú Yên",
+    "subdivision": null
+  },
+  {
+    "code": "24",
+    "name": "Quảng Bình",
+    "subdivision": null
+  },
+  {
+    "code": "27",
+    "name": "Quảng Nam",
+    "subdivision": null
+  },
+  {
+    "code": "29",
+    "name": "Quảng Ngãi",
+    "subdivision": null
+  },
+  {
+    "code": "13",
+    "name": "Quảng Ninh",
+    "subdivision": null
+  },
+  {
+    "code": "25",
+    "name": "Quảng Trị",
+    "subdivision": null
+  },
+  {
+    "code": "52",
+    "name": "Sóc Trăng",
+    "subdivision": null
+  },
+  {
+    "code": "05",
+    "name": "Sơn La",
+    "subdivision": null
+  },
+  {
+    "code": "21",
+    "name": "Thanh Hóa",
+    "subdivision": null
+  },
+  {
+    "code": "20",
+    "name": "Thái Bình",
+    "subdivision": null
+  },
+  {
+    "code": "69",
+    "name": "Thái Nguyên",
+    "subdivision": null
+  },
+  {
+    "code": "26",
+    "name": "Thừa Thiên–Huế",
+    "subdivision": null
+  },
+  {
+    "code": "46",
+    "name": "Tiền Giang",
+    "subdivision": null
+  },
+  {
+    "code": "51",
+    "name": "Trà Vinh",
+    "subdivision": null
+  },
+  {
+    "code": "07",
+    "name": "Tuyên Quang",
+    "subdivision": null
+  },
+  {
+    "code": "37",
+    "name": "Tây Ninh",
+    "subdivision": null
+  },
+  {
+    "code": "49",
+    "name": "Vĩnh Long",
+    "subdivision": null
+  },
+  {
+    "code": "70",
+    "name": "Vĩnh Phúc",
+    "subdivision": null
+  },
+  {
+    "code": "06",
+    "name": "Yên Bái",
+    "subdivision": null
+  },
+  {
+    "code": "71",
+    "name": "Điện Biên",
+    "subdivision": null
+  },
+  {
+    "code": "DN",
+    "name": "Đà Nẵng",
+    "subdivision": null
+  },
+  {
+    "code": "33",
+    "name": "Đắk Lắk",
+    "subdivision": null
+  },
+  {
+    "code": "72",
+    "name": "Đắk Nông",
+    "subdivision": null
+  },
+  {
+    "code": "39",
+    "name": "Đồng Nai",
+    "subdivision": null
+  },
+  {
+    "code": "45",
+    "name": "Đồng Tháp",
+    "subdivision": null
+  }
+]

@@ -1,0 +1,8 @@
+NSCameraUsageDescription = "แอปนี้ต้องการการเข้าถึงกล้องสำหรับฟีเจอร์ QR Code หรือเครื่องสแกนบาร์โค้ด ซึ่งสามารถเข้าถึงได้จากแถบค้นหา";
+NSLocationAlwaysAndWhenInUseUsageDescription = "รับตำแหน่งปัจจุบันของคุณสำหรับการจัดส่ง";
+NSLocationAlwaysUsageDescription = "ต้องการเข้าถึงตำแหน่งปัจจุบัน";
+NSLocationWhenInUseUsageDescription = "รับตำแหน่งปัจจุบันของคุณสำหรับการจัดส่ง";
+NSMicrophoneUsageDescription = "เราต้องการเข้าถึงไมโครโฟนเพื่อบันทึกข้อความเสียง";
+NSPhotoLibraryAddUsageDescription = "เราต้องการเข้าถึงเพื่อจัดเก็บรูปภาพ/วิดีโอในคลังรูปภาพของคุณ";
+NSPhotoLibraryUsageDescription = "แอปนี้ต้องเข้าถึงไลบรารีรูปภาพเพื่อเลือกรูปโปรไฟล์ที่จะใช้เป็นรูปแชทสำหรับฟีเจอร์แชท";
+NSUserTrackingUsageDescription = "ตัวระบุนี้จะใช้เพื่อส่งโฆษณาส่วนบุคคลให้กับคุณ &quot;ขอให้แอปไม่ติดตาม&quot; จะจำกัดความสามารถของเครือข่ายโฆษณา&apos;ในการแสดงโฆษณาที่เกี่ยวข้องกับคุณ แต่จะไม่ลดจำนวนโฆษณาที่คุณได้รับ";

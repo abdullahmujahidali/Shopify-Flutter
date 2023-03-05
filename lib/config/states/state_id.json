@@ -1,0 +1,142 @@
+[
+  {
+    "code": "AC",
+    "name": "Aceh"
+  },
+  {
+    "code": "SU",
+    "name": "Sumatera Utara"
+  },
+  {
+    "code": "SB",
+    "name": "Sumatera Barat"
+  },
+  {
+    "code": "RI",
+    "name": "Riau"
+  },
+  {
+    "code": "KR",
+    "name": "Kepulauan Riau"
+  },
+  {
+    "code": "JA",
+    "name": "Jambi"
+  },
+  {
+    "code": "BE",
+    "name": "Bengkulu"
+  },
+  {
+    "code": "SS",
+    "name": "Sumatera Selatan"
+  },
+  {
+    "code": "BB",
+    "name": "Kepulauan Bangka Belitung"
+  },
+  {
+    "code": "LA",
+    "name": "Lampung"
+  },
+  {
+    "code": "JK",
+    "name": "DKI Jakarta"
+  },
+  {
+    "code": "BT",
+    "name": "Banten"
+  },
+  {
+    "code": "JB",
+    "name": "Jawa Barat"
+  },
+  {
+    "code": "JT",
+    "name": "Jawa Tengah"
+  },
+  {
+    "code": "YO",
+    "name": "DIY Yogyakarta"
+  },
+  {
+    "code": "JI",
+    "name": "Jawa Timur"
+  },
+  {
+    "code": "BA",
+    "name": "Bali"
+  },
+  {
+    "code": "NB",
+    "name": "Nusa Tenggara Barat"
+  },
+  {
+    "code": "NT",
+    "name": "Nusa Tenggara Timur"
+  },
+  {
+    "code": "KB",
+    "name": "Kalimantan Barat"
+  },
+  {
+    "code": "KT",
+    "name": "Kalimantan Tengah"
+  },
+  {
+    "code": "KS",
+    "name": "Kalimantan Selatan"
+  },
+  {
+    "code": "KI",
+    "name": "Kalimantan Timur"
+  },
+  {
+  "code": "KU",
+  "name": "Kalimantan Utara"
+  },
+  {
+    "code": "SA",
+    "name": "Sulawesi Utara"
+  },
+  {
+    "code": "GO",
+    "name": "Gorontalo"
+  },
+  {
+    "code": "ST",
+    "name": "Sulawesi Tengah"
+  },
+  {
+    "code": "SR",
+    "name": "Sulawesi Barat"
+  },
+  {
+    "code": "SN",
+    "name": "Sulawesi Selatan"
+  },
+  {
+    "code": "SG",
+    "name": "Sulawesi Tenggara"
+  },
+  {
+    "code": "MU",
+    "name": "Maluku Utara"
+  },
+  {
+    "code": "MA",
+    "name": "Maluku"
+  },
+  {
+    "code": "PB",
+    "name": "Papua Barat"
+  },
+  {
+    "code": "PA",
+    "name": "Papua"
+  },
+  {
+    "code": "PY",
+    "name": "Pondicherry"
+  }
+]

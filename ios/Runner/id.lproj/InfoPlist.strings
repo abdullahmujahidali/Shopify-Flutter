@@ -1,0 +1,8 @@
+NSCameraUsageDescription = "Aplikasi ini membutuhkan akses ke kamera untuk fitur QR Code atau Barcode scanner yang dapat diakses dari bilah pencarian";
+NSLocationAlwaysAndWhenInUseUsageDescription = "Dapatkan lokasi Anda saat ini untuk pengiriman";
+NSLocationAlwaysUsageDescription = "Perlu akses lokasi saat ini";
+NSLocationWhenInUseUsageDescription = "Dapatkan lokasi Anda saat ini untuk pengiriman";
+NSMicrophoneUsageDescription = "Kami menginginkan akses ke mikrofon untuk mengizinkan perekaman pesan suara";
+NSPhotoLibraryAddUsageDescription = "Kami menginginkan akses untuk menyimpan Gambar/Video di Perpustakaan Foto Anda";
+NSPhotoLibraryUsageDescription = "Aplikasi ini memerlukan akses ke pustaka foto untuk memilih foto profil yang akan digunakan sebagai gambar obrolan untuk Fitur Obrolan.";
+NSUserTrackingUsageDescription = "Pengenal ini akan digunakan untuk mengirimkan iklan yang dipersonalisasi kepada Anda. &quot;Minta Aplikasi untuk Tidak melacak&quot; akan membatasi kemampuan jaringan Iklan&apos;untuk menayangkan iklan yang relevan kepada Anda tetapi tidak akan mengurangi jumlah iklan yang Anda terima. ";

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="fastlane.lanes">
+    
+    
+    
+      
+      <testcase classname="fastlane.lanes" name="0: assembleRelease" time="85.996134">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="1: git log -1 --pretty='%s'" time="0.020926">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="2: firebase_app_distribution" time="19.308067">
+        
+      </testcase>
+    
+  </testsuite>
+</testsuites>

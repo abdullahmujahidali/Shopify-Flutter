@@ -1,0 +1,8 @@
+NSCameraUsageDescription = "Ứng dụng cần quyền truy cập máy ảnh để quét mã QR hoặc mã vạch";
+NSLocationAlwaysUsageDescription = "Cần quyền truy cập vị trí";
+NSLocationWhenInUseUsageDescription = "Cần quyền truy cập vị trí để giao hàng";
+NSLocationAlwaysAndWhenInUseUsageDescription = "Cần quyền truy cập vị trí để giao hàng";
+NSMicrophoneUsageDescription = "Cần quyền truy cập mic để ghi âm tin nhắn thoại";
+NSPhotoLibraryAddUsageDescription = "Cần quyền truy cập thư viện để lưu lại hình ảnh";
+NSPhotoLibraryUsageDescription = "Ứng dụng cần truy cập vào thư viện ảnh để chọn ảnh đại diện cho tính năng chat.";
+NSUserTrackingUsageDescription = "Mã định danh sẽ được dùng để hiển thị quảng cáo liên quan đến bạn. &quot;Yêu cầu ứng dụng không theo dõi&quot; sẽ giới hạn khả năng hiển thị quảng cáo liên quan đến bạn nhưng sẽ không giảm số lượng quảng cáo được hiển thị.";

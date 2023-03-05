@@ -1,0 +1,56 @@
+default_platform(:ios)
+
+platform :ios do
+  desc "Description of what the lane does"
+    lane :upload_to_firebase do
+      build_app(
+        scheme: "Runner",
+        archive_path: "./build/Runner.xcarchive",
+        export_method: "development",
+        output_directory: "./build/Runner"
+     )
+
+      firebase_app_distribution(
+          app: "1:412823237422:ios:8947f503f8cb2000fb40bf",
+          testers: "inspireui.build@gmail.com",
+          groups: "inspireui",
+          release_notes: sh("git log -1 --pretty='%s'"),
+          firebase_cli_path: "/usr/local/bin/firebase",
+          ipa_path: "./build/Runner/Runner.ipa"
+      )
+    end
+
+  lane :update_profile_build_onesignal do |options|
+    update_project_provisioning(
+      target_filter: "OneSignalNotificationServiceExtension",
+      xcodeproj: "Runner.xcodeproj",
+      profile: options[:profilesioning_file],
+      code_signing_identity: options[:code_signing_identity],
+    )
+    update_code_signing_settings(
+      targets: "OneSignalNotificationServiceExtension",
+      use_automatic_signing: options[:use_automatic_signing],
+      path: options[:xcodeproj]    
+    )
+  end
+
+  lane :update_profile_build do |options|
+    update_project_provisioning(
+      target_filter: "Runner",
+      xcodeproj: options[:xcodeproj],
+      profile: options[:profilesioning_file],
+      code_signing_identity: options[:code_signing_identity],
+    )
+  
+    update_project_team(
+      path: options[:xcodeproj],
+      teamid: options[:teamid]
+    )
+    update_code_signing_settings(
+      targets: "Runner",
+      use_automatic_signing: options[:use_automatic_signing],
+      path: options[:xcodeproj]    
+    )
+  end
+   
+end

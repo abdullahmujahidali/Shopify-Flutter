@@ -1,0 +1,2 @@
+The old "env.properties" file is renamed to "env.props" to support UTF-8 encoding.
+You can copy the content of your old env.properties file to the new env.props file.

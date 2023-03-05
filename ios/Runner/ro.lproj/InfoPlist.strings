@@ -1,0 +1,8 @@
+NSCameraUsageDescription = "Această aplicație necesită acces la cameră pentru funcția de scanare a codurilor QR sau a codurilor de bare, care poate fi accesată din bara de căutare";
+NSLocationAlwaysAndWhenInUseUsageDescription = "Obțineți locația actuală pentru livrare";
+NSLocationAlwaysUsageDescription = "Necesită acces la locația curentă";
+NSLocationWhenInUseUsageDescription = "Obțineți locația actuală pentru livrare";
+NSMicrophoneUsageDescription = "Am dori acces la microfon pentru a permite înregistrarea mesajelor vocale";
+NSPhotoLibraryAddUsageDescription = "Am dori acces la stocarea imaginilor/videoclipurilor în biblioteca dvs. de fotografii";
+NSPhotoLibraryUsageDescription = "Această aplicație necesită acces la biblioteca de fotografii pentru a selecta o fotografie de profil care va fi folosită ca imagine de chat pentru funcția de chat.";
+NSUserTrackingUsageDescription = "Acest identificator va fi folosit pentru a vă livra reclame personalizate. &quot;Solicitați aplicației să nu urmărească&quot; va limita capacitatea rețelei de publicitate&apos;de a vă livra anunțuri relevante, dar nu va reduce numărul de anunțuri pe care le primiți.";

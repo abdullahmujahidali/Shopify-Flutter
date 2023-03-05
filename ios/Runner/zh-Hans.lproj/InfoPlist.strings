@@ -1,0 +1,8 @@
+NSCameraUsageDescription = "此应用程序需要访问相机才能使用 QR 码或条形码扫描仪功能，可以从搜索栏访问";
+NSLocationAlwaysAndWhenInUseUsageDescription = "获取您当前的送货位置";
+NSLocationAlwaysUsageDescription = "需要当前位置访问权限";
+NSLocationWhenInUseUsageDescription = "获取您当前的送货位置";
+NSMicrophoneUsageDescription = "我们想要访问麦克风以允许录制语音消息";
+NSPhotoLibraryAddUsageDescription = "我们想访问在您的照片库中存储图像/视频";
+NSPhotoLibraryUsageDescription = "此应用程序需要访问照片库才能选择个人资料照片，该照片将用作聊天功能的聊天图像。";
+NSUserTrackingUsageDescription = "此标识符将用于向您投放个性化广告。 &quot;要求应用不要跟踪&quot; 会限制广告网络&apos;向您投放相关广告的能力，但不会减少您收到的广告数量。";

@@ -1,0 +1,8 @@
+NSCameraUsageDescription = "Denna app kräver åtkomst till kameran för QR-kod eller streckkodsläsare som kan nås från sökfältet";
+NSLocationAlwaysAndWhenInUseUsageDescription = "Hämta din nuvarande plats för leverans";
+NSLocationAlwaysUsageDescription = "Behöver aktuell platsåtkomst";
+NSLocationWhenInUseUsageDescription = "Hämta din nuvarande plats för leverans";
+NSMicrophoneUsageDescription = "Vi skulle vilja ha tillgång till mikrofonen för att tillåta inspelning av röstmeddelanden";
+NSPhotoLibraryAddUsageDescription = "Vi vill ha tillgång till att lagra bilder/videor i ditt fotobibliotek";
+NSPhotoLibraryUsageDescription = "Denna app kräver åtkomst till fotobiblioteket för att välja ett profilfoto som kommer att användas som en chattbild för chattfunktionen.";
+NSUserTrackingUsageDescription = "Denna identifierare kommer att användas för att leverera personliga annonser till dig. &quot;Be appen att inte spåra&quot; begränsar annonsnätverkets&apos;möjligheter att visa relevanta annonser till dig men kommer inte att minska antalet annonser du får. ";

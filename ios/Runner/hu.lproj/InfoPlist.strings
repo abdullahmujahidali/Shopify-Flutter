@@ -1,0 +1,8 @@
+NSCameraUsageDescription = "Ez az alkalmazás hozzáférést igényel a kamerához a QR-kód vagy vonalkód-leolvasó funkcióhoz, amely a keresősávból érhető el";
+NSLocationAlwaysAndWhenInUseUsageDescription = "Kézbesítéshez kapja meg jelenlegi helyét";
+NSLocationAlwaysUsageDescription = "A jelenlegi helyhez való hozzáférés szükséges";
+NSLocationWhenInUseUsageDescription = "Kézbesítéshez kapja meg jelenlegi helyét";
+NSMicrophoneUsageDescription = "Szeretnénk hozzáférni a mikrofonhoz, hogy lehetővé tegyük a hangüzenetek rögzítését";
+NSPhotoLibraryAddUsageDescription = "Szeretnénk hozzáférni a képek/videók tárolásához a fotókönyvtárában";
+NSPhotoLibraryUsageDescription = "Ennek az alkalmazásnak hozzáférésre van szüksége a fotókönyvtárhoz, hogy kiválaszthasson egy profilfotót, amelyet csevegési képként használunk a csevegési funkcióhoz.";
+NSUserTrackingUsageDescription = "Ezt az azonosítót arra használjuk, hogy személyre szabott hirdetéseket jelenítsen meg Önnek. A &quot;Kérje meg az alkalmazást, hogy ne kövesse nyomon a(z)&quot; funkciót korlátozza a&apos;hirdetési hálózat azon képességét, hogy releváns hirdetéseket jelenítsen meg Önnek, de nem csökkenti a kapott hirdetések számát. ";

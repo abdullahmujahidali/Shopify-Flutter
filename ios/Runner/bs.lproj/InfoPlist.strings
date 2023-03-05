@@ -1,0 +1,8 @@
+NSCameraUsageDescription = "Ova aplikacija zahtijeva pristup kameri za QR kod ili funkciju skenera barkodova kojoj se može pristupiti iz trake za pretraživanje";
+NSLocationAlwaysAndWhenInUseUsageDescription = "Preuzmi svoju trenutnu lokaciju za dostavu";
+NSLocationAlwaysUsageDescription = "Potreban je pristup trenutnoj lokaciji";
+NSLocationWhenInUseUsageDescription = "Preuzmi svoju trenutnu lokaciju za dostavu";
+NSMicrophoneUsageDescription = "Želimo pristup mikrofonu kako bismo omogućili snimanje glasovnih poruka";
+NSPhotoLibraryAddUsageDescription = "Želimo pristup za pohranjivanje slika/videozapisa u vašu fototeku";
+NSPhotoLibraryUsageDescription = "Ova aplikacija zahtijeva pristup biblioteci fotografija za odabir fotografije profila koja će se koristiti kao slika za chat za Chat Feature.";
+NSUserTrackingUsageDescription = "Ovaj identifikator će se koristiti za isporuku personaliziranih oglasa vama. &quot;Traži od aplikacije da ne prati&quot; će ograničiti mogućnost reklamne mreže&apos;da vam isporuči relevantne oglase, ali neće smanjiti broj oglasa koje primate. ";

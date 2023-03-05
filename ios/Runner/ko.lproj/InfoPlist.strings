@@ -1,0 +1,8 @@
+NSCameraUsageDescription = "이 앱은 검색창에서 액세스할 수 있는 QR 코드 또는 바코드 스캐너 기능을 위해 카메라에 대한 액세스 권한이 필요합니다.";
+NSLocationAlwaysAndWhenInUseUsageDescription = "배송을 위해 현재 위치 확인";
+NSLocationAlwaysUsageDescription = "현재 위치 액세스 필요";
+NSLocationWhenInUseUsageDescription = "배송을 위해 현재 위치 확인";
+NSMicrophoneUsageDescription = "음성 메시지를 녹음할 수 있도록 마이크에 액세스하고 싶습니다.";
+NSPhotoLibraryAddUsageDescription = "사진 라이브러리에 이미지/비디오를 저장할 수 있는 액세스 권한을 원합니다.";
+NSPhotoLibraryUsageDescription = "이 앱은 채팅 기능의 채팅 이미지로 사용될 프로필 사진을 선택하기 위해 사진 라이브러리에 대한 액세스 권한이 필요합니다.";
+NSUserTrackingUsageDescription = "이 식별자는 귀하에게 개인화된 광고를 제공하는 데 사용됩니다. &quot;추적하지 않도록 앱에 요청&quot; 은 관련 광고를 귀하에게 전달하는 광고 네트워크&apos;의 기능을 제한하지만 귀하가 받는 광고의 수는 줄이지 않습니다. ";

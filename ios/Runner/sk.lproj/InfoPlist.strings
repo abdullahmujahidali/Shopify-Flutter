@@ -1,0 +1,8 @@
+NSCameraUsageDescription = "Táto aplikácia vyžaduje prístup k fotoaparátu pre funkciu skenovania QR kódu alebo čiarového kódu, ku ktorej je možné pristupovať z vyhľadávacieho panela";
+NSLocationAlwaysAndWhenInUseUsageDescription = "Získajte svoju aktuálnu polohu pre doručenie";
+NSLocationAlwaysUsageDescription = "Potrebujem prístup k aktuálnej polohe";
+NSLocationWhenInUseUsageDescription = "Získajte svoju aktuálnu polohu pre doručenie";
+NSMicrophoneUsageDescription = "Chceli by sme mať prístup k mikrofónu, aby sme mohli nahrávať hlasové správy";
+NSPhotoLibraryAddUsageDescription = "Chceli by sme mať prístup k ukladaniu obrázkov/videí vo vašej knižnici fotografií";
+NSPhotoLibraryUsageDescription = "Táto aplikácia vyžaduje prístup do knižnice fotografií, aby si mohla vybrať profilovú fotografiu, ktorá sa použije ako obrázok rozhovoru pre funkciu rozhovoru.";
+NSUserTrackingUsageDescription = "Tento identifikátor sa použije na doručovanie prispôsobených reklám. &quot;Požiadať aplikáciu, aby nesledovala&quot; obmedzí schopnosť reklamnej siete&apos;doručovať vám relevantné reklamy, ale nezníži počet reklám, ktoré dostanete.";

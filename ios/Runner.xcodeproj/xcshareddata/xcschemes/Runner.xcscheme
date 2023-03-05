@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   LastUpgradeVersion = "1300"
+   version = "1.7">
+   <BuildAction
+      parallelizeBuildables = "YES"
+      buildImplicitDependencies = "YES">
+      <PreActions>
+         <ExecutionAction
+            ActionType = "Xcode.IDEStandardExecutionActionsCore.ExecutionActionType.ShellScriptAction">
+            <ActionContent
+               title = "Run Script"
+               scriptText = "echo &quot;Copying configs/GoogleService-Info.plist to ios/GoogleService-Info.plist...&quot;&#10;/bin/cp -Rf ${PROJECT_DIR}/../configs/GoogleService-Info.plist ${PROJECT_DIR}/GoogleService-Info.plist&#10;&#10;echo &quot;Copying configs/customized to project...&quot;&#10;/bin/cp -Rf ${PROJECT_DIR}/../configs/customized/ ${PROJECT_DIR}/../&#10;&#10;if [ -e ${PROJECT_DIR}/../configs/env.properties ] &amp;&amp; [ -e ${PROJECT_DIR}/../configs/env.props ]&#10;then&#10;    echo &quot;=================================================================&quot;&#10;    echo &quot;Warning: env.properties is deprecated, please rename to env.props&quot;&#10;    echo &quot;=================================================================&quot;&#10;fi&#10;&#10;if [ -e ${PROJECT_DIR}/../configs/env.properties ] &amp;&amp;! [ -e ${PROJECT_DIR}/../configs/env.props ]&#10;then&#10;    echo &quot;=================================================================&quot;&#10;    echo &quot;&#x26a0;&#xfe0f;  Warning: env.properties is deprecated and should not be used&quot;&#10;    echo &quot;&#x1fa84;&#xfe0f;  env.properties has been renamed to env.props automatically&quot;&#10;    echo &quot;=================================================================&quot;&#10;    /bin/mv -f ${PROJECT_DIR}/../configs/env.properties ${PROJECT_DIR}/../configs/env.props&#10;fi&#10;&#10;if [ -e ${PROJECT_DIR}/../configs/env.props ]&#10;then&#10;    echo &quot;Loading configs from configs/env.props...&quot;&#10;    echo &quot;#include? \&quot;${PROJECT_DIR}/../configs/env.props\&quot;&quot; &gt; ${PROJECT_DIR}/Config.xcconfig&#10;else&#10;    echo &quot;Loading configs from configs/env.properties...&quot;&#10;    echo &quot;#include? \&quot;${PROJECT_DIR}/../configs/env.properties\&quot;&quot; &gt; ${PROJECT_DIR}/Config.xcconfig&#10;fi&#10;">
+               <EnvironmentBuildable>
+                  <BuildableReference
+                     BuildableIdentifier = "primary"
+                     BlueprintIdentifier = "97C146ED1CF9000F007C117D"
+                     BuildableName = "Runner.app"
+                     BlueprintName = "Runner"
+                     ReferencedContainer = "container:Runner.xcodeproj">
+                  </BuildableReference>
+               </EnvironmentBuildable>
+            </ActionContent>
+         </ExecutionAction>
+      </PreActions>
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "97C146ED1CF9000F007C117D"
+               BuildableName = "Runner.app"
+               BlueprintName = "Runner"
+               ReferencedContainer = "container:Runner.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <TestAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      shouldUseLaunchSchemeArgsEnv = "YES">
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "97C146ED1CF9000F007C117D"
+            BuildableName = "Runner.app"
+            BlueprintName = "Runner"
+            ReferencedContainer = "container:Runner.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+      <Testables>
+      </Testables>
+   </TestAction>
+   <LaunchAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      launchStyle = "0"
+      useCustomWorkingDirectory = "NO"
+      ignoresPersistentStateOnLaunch = "NO"
+      debugDocumentVersioning = "YES"
+      debugServiceExtension = "internal"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "97C146ED1CF9000F007C117D"
+            BuildableName = "Runner.app"
+            BlueprintName = "Runner"
+            ReferencedContainer = "container:Runner.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+      <StoreKitConfigurationFileReference
+         identifier = "../Runner/Configuration.storekit">
+      </StoreKitConfigurationFileReference>
+   </LaunchAction>
+   <ProfileAction
+      buildConfiguration = "Profile"
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      savedToolIdentifier = ""
+      useCustomWorkingDirectory = "NO"
+      debugDocumentVersioning = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "97C146ED1CF9000F007C117D"
+            BuildableName = "Runner.app"
+            BlueprintName = "Runner"
+            ReferencedContainer = "container:Runner.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </ProfileAction>
+   <AnalyzeAction
+      buildConfiguration = "Debug">
+   </AnalyzeAction>
+   <ArchiveAction
+      buildConfiguration = "Release"
+      revealArchiveInOrganizer = "YES">
+   </ArchiveAction>
+</Scheme>

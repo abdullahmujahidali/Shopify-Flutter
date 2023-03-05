@@ -1,0 +1,8 @@
+NSCameraUsageDescription = "ແອັບນີ້ຕ້ອງການການເຂົ້າເຖິງກ້ອງຖ່າຍຮູບສໍາລັບ QR Code ຫຼືຄຸນສົມບັດເຄື່ອງສະແກນບາໂຄດທີ່ສາມາດເຂົ້າເຖິງໄດ້ຈາກແຖບຄົ້ນຫາ";
+NSLocationAlwaysAndWhenInUseUsageDescription = "ເອົາສະຖານທີ່ປັດຈຸບັນຂອງທ່ານສໍາລັບການຈັດສົ່ງ";
+NSLocationAlwaysUsageDescription = "ຕ້ອງການການເຂົ້າເຖິງສະຖານທີ່ໃນປະຈຸບັນ";
+NSLocationWhenInUseUsageDescription = "ເອົາສະຖານທີ່ປັດຈຸບັນຂອງທ່ານສໍາລັບການຈັດສົ່ງ";
+NSMicrophoneUsageDescription = "ພວກເຮົາຕ້ອງການທີ່ຈະເຂົ້າເຖິງໄມໂຄໂຟນເພື່ອອະນຸຍາດໃຫ້ບັນທຶກຂໍ້ຄວາມສຽງ";
+NSPhotoLibraryAddUsageDescription = "ພວກ​ເຮົາ​ຕ້ອງ​ການ​ການ​ເຂົ້າ​ເຖິງ​ເພື່ອ​ເກັບ​ຮັກ​ສາ​ຮູບ​ພາບ / ວິ​ດີ​ໂອ​ໃນ​ຫ້ອງ​ສະ​ຫມຸດ​ຮູບ​ພາບ​ຂອງ​ທ່ານ​";
+NSPhotoLibraryUsageDescription = "ແອັບນີ້ຕ້ອງການການເຂົ້າເຖິງຫ້ອງສະໝຸດຮູບເພື່ອເລືອກຮູບໂປຣໄຟລ໌ທີ່ຈະໃຊ້ເປັນຮູບສົນທະນາສຳລັບຄຸນສົມບັດການສົນທະນາ.";
+NSUserTrackingUsageDescription = "ຕົວລະບຸນີ້ຈະຖືກນໍາໃຊ້ເພື່ອສົ່ງໂຄສະນາສ່ວນບຸກຄົນໃຫ້ກັບເຈົ້າ. &quot;Ask App not to track&quot; will limit the advertisement network&apos;s ຄວາມສາມາດໃນການສົ່ງໂຄສະນາທີ່ກ່ຽວຂ້ອງກັບທ່ານແຕ່ຈະບໍ່ຫຼຸດລົງຈໍານວນການໂຄສະນາທີ່ທ່ານໄດ້ຮັບ. ";

@@ -1,0 +1,8 @@
+NSCameraUsageDescription = "אפליקציה זו דורשת גישה למצלמה עבור תכונת קוד QR או סורק ברקוד שניתן לגשת אליה מסרגל החיפוש";
+NSLocationAlwaysAndWhenInUseUsageDescription = "קבל את המיקום הנוכחי שלך למשלוח";
+NSLocationAlwaysUsageDescription = "צריך גישה למיקום נוכחי";
+NSLocationWhenInUseUsageDescription = "קבל את המיקום הנוכחי שלך למשלוח";
+NSMicrophoneUsageDescription = "אנחנו רוצים גישה למיקרופון כדי לאפשר הקלטת הודעות קוליות";
+NSPhotoLibraryAddUsageDescription = "אנו רוצים גישה לאחסון תמונות/סרטונים בספריית התמונות שלך";
+NSPhotoLibraryUsageDescription = "אפליקציה זו דורשת גישה לספריית התמונות כדי לבחור תמונת פרופיל שתשמש כתמונת צ'אט עבור תכונת הצ'אט.";
+NSUserTrackingUsageDescription = "מזהה זה ישמש להצגת מודעות מותאמות אישית אליך. &quot;בקש מהאפליקציה לא לעקוב&quot; יגביל את יכולתה של רשת הפרסום&apos;להציג לך מודעות רלוונטיות אך לא יקטין את מספר המודעות שתקבל. ";

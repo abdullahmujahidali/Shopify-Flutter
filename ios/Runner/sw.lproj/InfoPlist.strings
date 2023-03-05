@@ -1,0 +1,8 @@
+NSCameraUsageDescription = "Programu hii inahitaji ufikiaji wa kamera kwa Msimbo wa QR au kichanganuzi cha Msimbo Pau ambacho kinaweza kufikiwa kutoka kwa upau wa kutafutia";
+NSLocationAlwaysAndWhenInUseUsageDescription = "Pata eneo lako la sasa kwa usafirishaji";
+NSLocationAlwaysUsageDescription = "Inahitaji ufikiaji wa eneo la sasa";
+NSLocationWhenInUseUsageDescription = "Pata eneo lako la sasa kwa usafirishaji";
+NSMicrophoneUsageDescription = "Tungependa kufikia maikrofoni ili kuruhusu kurekodi ujumbe wa sauti";
+NSPhotoLibraryAddUsageDescription = "Tungependa ufikiaji wa kuhifadhi Picha/Video kwenye Maktaba yako ya Picha";
+NSPhotoLibraryUsageDescription = "Programu hii inahitaji ufikiaji wa maktaba ya picha ili kuchagua picha ya wasifu ambayo itatumika kama picha ya gumzo kwa Kipengele cha Gumzo.";
+NSUserTrackingUsageDescription = "Kitambulisho hiki kitatumika kukuletea matangazo yaliyobinafsishwa. &quot;Uliza Programu Isikufuatilie&quot; itapunguza uwezo wa mtandao wa Tangazo wa&apos;kuwasilisha matangazo muhimu kwako lakini haitapunguza idadi ya matangazo unayopokea.";

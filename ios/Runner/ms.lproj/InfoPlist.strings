@@ -1,0 +1,8 @@
+NSCameraUsageDescription = "Apl ini memerlukan akses kepada kamera untuk Kod QR atau ciri pengimbas Kod Bar yang boleh diakses daripada bar carian";
+NSLocationAlwaysAndWhenInUseUsageDescription = "Dapatkan lokasi semasa anda untuk penghantaran";
+NSLocationAlwaysUsageDescription = "Perlukan akses lokasi semasa";
+NSLocationWhenInUseUsageDescription = "Dapatkan lokasi semasa anda untuk penghantaran";
+NSMicrophoneUsageDescription = "Kami ingin akses kepada mikrofon untuk membenarkan rakaman mesej suara";
+NSPhotoLibraryAddUsageDescription = "Kami ingin akses untuk menyimpan Imej/Video dalam Pustaka Foto anda";
+NSPhotoLibraryUsageDescription = "Apl ini memerlukan akses kepada pustaka foto untuk memilih foto profil yang akan digunakan sebagai imej sembang untuk Ciri Sembang.";
+NSUserTrackingUsageDescription = "Pengecam ini akan digunakan untuk menghantar iklan yang diperibadikan kepada anda. &quot;Minta Apl Tidak menjejak&quot; akan mengehadkan keupayaan rangkaian Iklan&apos;untuk menyampaikan iklan yang berkaitan kepada anda tetapi tidak akan mengurangkan bilangan iklan yang anda terima. ";

@@ -1,0 +1,399 @@
+[
+  {
+    "code": "AV",
+    "name": "Avon"
+  },
+  {
+    "code": "BE",
+    "name": "Bedfordshire"
+  },
+  {
+    "code": "BK",
+    "name": "Berkshire"
+  },
+  {
+    "code": "BU",
+    "name": "Buckinghamshire"
+  },
+  {
+    "code": "CA",
+    "name": "Cambridgeshire"
+  },
+  {
+    "code": "CH",
+    "name": "Cheshire"
+  },
+  {
+    "code": "CL",
+    "name": "Cleveland"
+  },
+  {
+    "code": "CO",
+    "name": "Cornwall"
+  },
+  {
+    "code": "CD",
+    "name": "County Durham"
+  },
+  {
+    "code": "CU",
+    "name": "Cumbria"
+  },
+  {
+    "code": "DE",
+    "name": "Derbyshire"
+  },
+  {
+    "code": "DV",
+    "name": "Devon"
+  },
+  {
+    "code": "DO",
+    "name": "Dorset"
+  },
+  {
+    "code": "ES",
+    "name": "East Sussex"
+  },
+  {
+    "code": "EX",
+    "name": "Essex"
+  },
+  {
+    "code": "GL",
+    "name": "Gloucestershire"
+  },
+  {
+    "code": "HA",
+    "name": "Hampshire"
+  },
+  {
+    "code": "HE",
+    "name": "Herefordshire"
+  },
+  {
+    "code": "HT",
+    "name": "Hertfordshire"
+  },
+  {
+    "code": "IW",
+    "name": "Isle of Wight"
+  },
+  {
+    "code": "KE",
+    "name": "Kent"
+  },
+  {
+    "code": "LA",
+    "name": "Lancashire"
+  },
+  {
+    "code": "LE",
+    "name": "Leicestershire"
+  },
+  {
+    "code": "LI",
+    "name": "Lincolnshire"
+  },
+  {
+    "code": "LO",
+    "name": "London"
+  },
+  {
+    "code": "ME",
+    "name": "Merseyside"
+  },
+  {
+    "code": "MI",
+    "name": "Middlesex"
+  },
+  {
+    "code": "NO",
+    "name": "Norfolk"
+  },
+  {
+    "code": "NH",
+    "name": "North Humberside"
+  },
+  {
+    "code": "NY",
+    "name": "North Yorkshire"
+  },
+  {
+    "code": "NS",
+    "name": "Northamptonshire"
+  },
+  {
+    "code": "NL",
+    "name": "Northumberland"
+  },
+  {
+    "code": "NT",
+    "name": "Nottinghamshire"
+  },
+  {
+    "code": "OX",
+    "name": "Oxfordshire"
+  },
+  {
+    "code": "SH",
+    "name": "Shropshire"
+  },
+  {
+    "code": "SO",
+    "name": "Somerset"
+  },
+  {
+    "code": "SM",
+    "name": "South Humberside"
+  },
+  {
+    "code": "SY",
+    "name": "South Yorkshire"
+  },
+  {
+    "code": "SF",
+    "name": "Staffordshire"
+  },
+  {
+    "code": "SU",
+    "name": "Suffolk"
+  },
+  {
+    "code": "SRY",
+    "name": "Surrey"
+  },
+  {
+    "code": "TW",
+    "name": "Tyne and Wear"
+  },
+  {
+    "code": "WA",
+    "name": "Warwickshire"
+  },
+  {
+    "code": "WM",
+    "name": "West Midlands"
+  },
+  {
+    "code": "WS",
+    "name": "West Sussex"
+  },
+  {
+    "code": "WY",
+    "name": "West Yorkshire"
+  },
+  {
+    "code": "WI",
+    "name": "Wiltshire"
+  },
+  {
+    "code": "WO",
+    "name": "Worcestershire"
+  },
+  {
+    "code": "ABD",
+    "name": "Scotland / Aberdeenshire"
+  },
+  {
+    "code": "ANS",
+    "name": "Scotland / Angus"
+  },
+  {
+    "code": "ARL",
+    "name": "Scotland / Argyll and Bute"
+  },
+  {
+    "code": "AYR",
+    "name": "Scotland / Ayrshire"
+  },
+  {
+    "code": "CLK",
+    "name": "Scotland / Clackmannanshire"
+  },
+  {
+    "code": "DGY",
+    "name": "Scotland / Dumfries and Galloway"
+  },
+  {
+    "code": "DNB",
+    "name": "Scotland / Dunbartonshire"
+  },
+  {
+    "code": "DDE",
+    "name": "Scotland / Dundee"
+  },
+  {
+    "code": "ELN",
+    "name": "Scotland / East Lothian"
+  },
+  {
+    "code": "EDB",
+    "name": "Scotland / Edinburgh"
+  },
+  {
+    "code": "FIF",
+    "name": "Scotland / Fife"
+  },
+  {
+    "code": "GGW",
+    "name": "Scotland / Glasgow"
+  },
+  {
+    "code": "HLD",
+    "name": "Scotland / Highland"
+  },
+  {
+    "code": "LKS",
+    "name": "Scotland / Lanarkshire"
+  },
+  {
+    "code": "MLN",
+    "name": "Scotland / Midlothian"
+  },
+  {
+    "code": "MOR",
+    "name": "Scotland / Moray"
+  },
+  {
+    "code": "ORI",
+    "name": "Scotland / Orkney"
+  },
+  {
+    "code": "PER",
+    "name": "Scotland / Perth and Kinross"
+  },
+  {
+    "code": "RFW",
+    "name": "Scotland / Renfrewshire"
+  },
+  {
+    "code": "SB",
+    "name": "Scotland / Scottish Borders"
+  },
+  {
+    "code": "SHI",
+    "name": "Scotland / Shetland Isles"
+  },
+  {
+    "code": "STI",
+    "name": "Scotland / Stirling"
+  },
+  {
+    "code": "WLN",
+    "name": "Scotland / West Lothian"
+  },
+  {
+    "code": "WIS",
+    "name": "Scotland / Western Isles"
+  },
+  {
+    "code": "AGY",
+    "name": "Wales / Anglesey"
+  },
+  {
+    "code": "GNT",
+    "name": "Wales / Blaenau Gwent"
+  },
+  {
+    "code": "CP",
+    "name": "Wales / Caerphilly (Caerffili)"
+  },
+  {
+    "code": "CF",
+    "name": "Wales / Cardiff (Caerdydd)"
+  },
+  {
+    "code": "CAE",
+    "name": "Wales / Carmarthenshire (Sir Gaerfyrddin)"
+  },
+  {
+    "code": "CR",
+    "name": "Wales / Ceredigion"
+  },
+  {
+    "code": "CW",
+    "name": "Wales / Conwy"
+  },
+  {
+    "code": "DEN",
+    "name": "Wales / Denbighshire"
+  },
+  {
+    "code": "FLN",
+    "name": "Wales / Flintshire"
+  },
+  {
+    "code": "GLA",
+    "name": "Wales / Glamorgan"
+  },
+  {
+    "code": "GWN",
+    "name": "Wales / Gwynedd"
+  },
+  {
+    "code": "MT",
+    "name": "Wales / Merthyr Tydfil"
+  },
+  {
+    "code": "MON",
+    "name": "Wales / Monmouthshire"
+  },
+  {
+    "code": "PT",
+    "name": "Wales / Neath Port Talbot"
+  },
+  {
+    "code": "NWP",
+    "name": "Wales / Newport"
+  },
+  {
+    "code": "PEM",
+    "name": "Wales / Pembrokeshire"
+  },
+  {
+    "code": "POW",
+    "name": "Wales / Powys"
+  },
+  {
+    "code": "RT",
+    "name": "Wales / Rhondda, Cynon Taff"
+  },
+  {
+    "code": "SS",
+    "name": "Wales / Swansea"
+  },
+  {
+    "code": "TF",
+    "name": "Wales / Torfean"
+  },
+  {
+    "code": "WX",
+    "name": "Wales / Wrexham"
+  },
+  {
+    "code": "ANT",
+    "name": "Northern Ireland / County Antrim"
+  },
+  {
+    "code": "ARM",
+    "name": "Northern Ireland / County Armagh"
+  },
+  {
+    "code": "DOW",
+    "name": "Northern Ireland / County Down"
+  },
+  {
+    "code": "FER",
+    "name": "Northern Ireland / County Fermanagh"
+  },
+  {
+    "code": "LDY",
+    "name": "Northern Ireland / County Londonderry"
+  },
+  {
+    "code": "TYR",
+    "name": "Northern Ireland / County Tyrone"
+  }
+
+]

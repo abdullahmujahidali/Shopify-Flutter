@@ -1,0 +1,8 @@
+NSCameraUsageDescription = "يتطلب هذا التطبيق الوصول إلى الكاميرا للحصول على رمز الاستجابة السريعة أو ميزة الماسح الضوئي للرمز الشريطي والتي يمكن الوصول إليها من شريط البحث";
+NSLocationAlwaysAndWhenInUseUsageDescription = "احصل على موقعك الحالي للتسليم";
+NSLocationAlwaysUsageDescription = "يلزم الوصول إلى الموقع الحالي";
+NSLocationWhenInUseUsageDescription = "احصل على موقعك الحالي للتسليم";
+NSMicrophoneUsageDescription = "نود الوصول إلى الميكروفون للسماح بتسجيل الرسائل الصوتية";
+NSPhotoLibraryAddUsageDescription = "نود الوصول إلى تخزين الصور / مقاطع الفيديو في مكتبة الصور الخاصة بك";
+NSPhotoLibraryUsageDescription = "يتطلب هذا التطبيق الوصول إلى مكتبة الصور لتحديد صورة الملف الشخصي التي سيتم استخدامها كصورة دردشة لميزة الدردشة.";
+NSUserTrackingUsageDescription = "سيتم استخدام هذا المعرف لتقديم إعلانات مخصصة لك. &quot;طلب عدم التعقب من التطبيق&quot; سيحد من قدرة شبكة الإعلانات&apos;على عرض الإعلانات ذات الصلة لك ولكنه لن يقلل من عدد الإعلانات التي تتلقاها. ";

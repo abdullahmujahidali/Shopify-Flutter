@@ -1,0 +1,8 @@
+NSCameraUsageDescription = "Diese App erfordert Zugriff auf die Kamera für die QR-Code- oder Barcode-Scannerfunktion, auf die über die Suchleiste zugegriffen werden kann.";
+NSLocationAlwaysAndWhenInUseUsageDescription = "Rufen Sie Ihren aktuellen Standort für die Lieferung ab";
+NSLocationAlwaysUsageDescription = "Zugriff auf aktuellen Standort erforderlich";
+NSLocationWhenInUseUsageDescription = "Rufen Sie Ihren aktuellen Standort für die Lieferung ab";
+NSMicrophoneUsageDescription = "Wir möchten Zugriff auf das Mikrofon, um die Aufzeichnung von Sprachnachrichten zu ermöglichen.";
+NSPhotoLibraryAddUsageDescription = "Wir hätten gerne Zugriff zum Speichern von Bildern/Videos in Ihrer Fotobibliothek";
+NSPhotoLibraryUsageDescription = "Diese App benötigt Zugriff auf die Fotobibliothek, um ein Profilfoto auszuwählen, das als Chat-Bild für die Chat-Funktion verwendet wird.";
+NSUserTrackingUsageDescription = "Diese Kennung wird verwendet, um Ihnen personalisierte Werbung zu liefern. &quot;Ask App to Not Track&quot; schränkt die Fähigkeit des Werbenetzwerks&apos;ein, Ihnen relevante Werbung zu liefern, verringert jedoch nicht die Anzahl der Werbung, die Sie erhalten. ";

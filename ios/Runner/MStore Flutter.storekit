@@ -1,0 +1,79 @@
+{
+  "identifier" : "01ED2F3E",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "4.99",
+      "familyShareable" : false,
+      "internalID" : "1641636969",
+      "localizations" : [
+        {
+          "description" : "Buy Product",
+          "displayName" : "Buy Product",
+          "locale" : "en_GB"
+        }
+      ],
+      "productID" : "com.inspireui.fluxstore.test",
+      "referenceName" : "In App Purchase Test",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "1483203569",
+      "localizations" : [
+        {
+          "description" : "test for pay",
+          "displayName" : "test",
+          "locale" : "en_GB"
+        }
+      ],
+      "productID" : "test",
+      "referenceName" : "test",
+      "type" : "Consumable"
+    }
+  ],
+  "settings" : {
+    "_applicationInternalID" : "1469772800",
+    "_developerTeamID" : "S9RPAM8224",
+    "_lastSynchronizedDate" : 693061907.61445606
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "21093766",
+      "localizations" : [
+
+      ],
+      "name" : "Fluxstore Subscription",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "4.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "6445081626",
+          "introductoryOffer" : null,
+          "localizations" : [
+
+          ],
+          "productID" : "com.inspireui.fluxstore.subscription.test",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Subscription Test",
+          "subscriptionGroupID" : "21093766",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 2,
+    "minor" : 0
+  }
+}

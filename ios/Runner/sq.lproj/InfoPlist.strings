@@ -1,0 +1,8 @@
+NSCameraUsageDescription = "Ky aplikacion kërkon qasje në kamerë për funksionin e skanerit të kodit QR ose të barkodit, i cili mund të aksesohet nga shiriti i kërkimit";
+NSLocationAlwaysAndWhenInUseUsageDescription = "Merr vendndodhjen tënde aktuale për dorëzim";
+NSLocationAlwaysUsageDescription = "Ka nevojë për qasje në vendndodhjen aktuale";
+NSLocationWhenInUseUsageDescription = "Merr vendndodhjen tënde aktuale për dorëzim";
+NSMicrophoneUsageDescription = "Ne do të donim qasje në mikrofon për të lejuar regjistrimin e mesazheve zanore";
+NSPhotoLibraryAddUsageDescription = "Ne do të donim akses për të ruajtur Imazhet/Videot në Bibliotekën tuaj të Fotove";
+NSPhotoLibraryUsageDescription = "Ky aplikacion kërkon qasje në bibliotekën e fotografive për të zgjedhur një foto profili e cila do të përdoret si një imazh bisede për funksionin e bisedës.";
+NSUserTrackingUsageDescription = "Ky identifikues do të përdoret për të ofruar reklama të personalizuara tek ju. &quot;Kërkoni që aplikacioni të mos gjurmojë&quot; do të kufizojë aftësinë e rrjetit të reklamave&apos;për t'ju ofruar reklama përkatëse, por nuk do të zvogëlojë numrin e reklamave që merrni.";
